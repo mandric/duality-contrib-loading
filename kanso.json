@@ -1,0 +1,10 @@
+{
+    "name": "duality-contrib-loading",
+    "version": "0.0.1",
+    "description": "Provides a loading message during ajax requests.",
+    "load": "duality/contrib/loading/app",
+    "modules": "duality/contrib/loading",
+    "dependencies": {
+        "duality": null
+    }
+}

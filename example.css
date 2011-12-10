@@ -1,0 +1,13 @@
+#duality-contrib-loading {
+    background-color: @grayLight;
+    .border-radius(0 0 5px 5px);
+    position: fixed;
+    top: 2em;
+    left: 46em;
+    width: 6em;
+    padding: 0 1em;
+    margin: 1em auto 0 auto;
+    border: 1px solid #ccc;
+    border-right-color: #999;
+    border-bottom-color: #999;
+}
