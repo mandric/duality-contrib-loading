@@ -2,10 +2,17 @@
 
 ### Install
 
-Add to your project's kanso.json dependencies:
+Add to your project's kanso.json dependencies setting:
 
 ```
         "duality-contrib-loading": null,
+```
+
+Run kanso install to fetch and unarchive the package to your packages
+directory:
+
+```
+kanso install
 ```
 
 ### Customization
