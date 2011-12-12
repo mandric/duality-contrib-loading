@@ -4,6 +4,7 @@
     "description": "Provides a loading message during ajax requests.",
     "load": "duality/contrib/loading/app",
     "modules": "duality/contrib/loading",
+    "url": "https://github.com/mandric/duality-contrib-loading",
     "dependencies": {
         "modules": null,
         "properties": null,
