@@ -6,7 +6,7 @@ Add to your project's kanso.json dependencies:
         "duality-contrib-loading": null,
 ```
 
-## Customization
+##Customization
 
 Style the #duality-contrib-loading with your own css or use example.less as a
 start.
