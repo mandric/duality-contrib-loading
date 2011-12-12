@@ -8,7 +8,7 @@ Add to your project's kanso.json dependencies setting:
         "duality-contrib-loading": null,
 ```
 
-Run kanso install to fetch and unarchive the package to your packages
+Run kanso install to download and unarchive the package to your packages
 directory:
 
 ```
