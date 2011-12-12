@@ -10,6 +10,6 @@ Add to your project's kanso.json dependencies:
 
 ### Customization
 
-Style the #duality-contrib-loading with your own css or use example.less as a
-start.
+Style the #duality-contrib-loading div with your own css or use example.less as
+a start.
 
