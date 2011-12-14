@@ -23,7 +23,7 @@ a start.
 
 ### Timeout setting
 
-Tweak the timeout value (milliseconds) in your kanso.json. 
+Tweak the timeout value (milliseconds) in your `kanso.json`. 
 
 ```
 "duality-contrib-loading": {
