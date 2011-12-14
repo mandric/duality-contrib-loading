@@ -1,6 +1,6 @@
-## Kanso Duality Loading Package
+# Kanso Duality Loading Package
 
-### Install
+## Install
 
 Add to your project's kanso.json dependencies setting:
 
@@ -15,13 +15,13 @@ directory:
 kanso install
 ```
 
-### Customization
+## Customization
 
-#### Style
+### Style
 Style the #duality-contrib-loading div with your own css or use example.less as
 a start.
 
-#### Timeout setting
+### Timeout setting
 
 Tweak the timeout value (milliseconds) in your kanso.json. 
 
