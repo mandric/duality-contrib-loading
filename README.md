@@ -18,7 +18,7 @@ kanso install
 ## Customization
 
 ### Style
-Style the #duality-contrib-loading div with your own css or use example.less as
+Style the `#duality-contrib-loading` div with your own css or use `example.less` as
 a start.
 
 ### Timeout setting
